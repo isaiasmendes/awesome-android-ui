@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Canais" , [COLOR orange]SporTV[/COLOR]
+http://188.166.70.148/loadbalance/slv0_bkp/chunks.m3u8?pxAuth=K326ijXiXThprBeK1gjrFu2rzm0BAXuY
+
+#EXTINF:-1 tvg-logo="" group-title="Canais" , [COLOR orange]NetGeo[/COLOR]
+http://165.227.100.253/natgeo/tracks-v1a1/index.m3u8?pxAuth=W4ZUsm7nDwU9sKSzEgQtRRrcWm2qHYav
+
+#EXTINF:-1 tvg-logo="" group-title="Canais" , [COLOR orange]E![/COLOR]
+http://165.227.111.217/loadbalance/99798948644286735598/chunks.m3u8?pxAuth=oa3MFnyzW0j7sF2FgF5u8Rr2B1QBFRIM
+
+#EXTINF:-1 tvg-logo="" group-title="Canais" , [COLOR orange]Fox Sports[/COLOR]
+http://188.166.75.107/loadbalance/foxsports/chunks.m3u8?pxAuth=GZPvsLqbii579LQAFyu2ulcFOUwPdbmS
+
+#EXTINF:-1 tvg-logo="" group-title="Canais" , [COLOR orange]TNT[/COLOR]
+http://165.227.19.207/loadbalance/tnthd/chunks.m3u8?pxAuth=Do0WqP2HmwCYzqY4JWYskWN8HadApSAf
+
+#EXTINF:-1 tvg-logo="" group-title="Canais" , [COLOR orange]Universal Chanel[/COLOR]
+http://w01.duoplay.xyz/003/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais" , [COLOR orange]FX[/COLOR]
+http://85.204.124.42:8081/live/master25/chunks.m3u8?nimblesessionid=1534412&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAxNyA2OjU2OjUyIFBNJmhhc2hfdmFsdWU9RnlUai9mRDdJUzQ3UU42ZThJYTZjQT09JnZhbGlkbWludXRlcz0xMA==
