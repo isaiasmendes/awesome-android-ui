@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2000px-A%26E_Network_logo.svg.png" group-title="Canais" , [COLOR orange]A&E[/COLOR]
+http://iptv.servidorfull.com:8081/live/Segu17/al9zfG75YD/109.ts
